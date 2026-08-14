@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/2004subrata/Leetcode/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
