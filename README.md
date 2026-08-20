@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
