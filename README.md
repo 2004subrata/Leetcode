@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/2004subrata/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1480-running-sum-of-1d-array](https://github.com/2004subrata/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
