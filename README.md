@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
+| [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/2004subrata/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1480-running-sum-of-1d-array](https://github.com/2004subrata/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -46,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/2004subrata/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2004subrata/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -55,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/2004subrata/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -65,4 +69,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
