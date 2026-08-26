@@ -21,6 +21,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2004subrata/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/2004subrata/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2004subrata/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
