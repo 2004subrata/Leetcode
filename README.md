@@ -48,6 +48,7 @@
 | [1672-richest-customer-wealth](https://github.com/2004subrata/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/2004subrata/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2004subrata/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/2004subrata/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/2004subrata/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
