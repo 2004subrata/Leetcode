@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -17,6 +18,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/2004subrata/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/2004subrata/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2004subrata/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/2004subrata/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -69,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2004subrata/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
