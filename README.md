@@ -42,6 +42,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2004subrata/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/2004subrata/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -82,5 +83,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
