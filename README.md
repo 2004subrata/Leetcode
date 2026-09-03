@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/2004subrata/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/2004subrata/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/2004subrata/Leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/2004subrata/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/2004subrata/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
@@ -73,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/2004subrata/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/2004subrata/Leetcode/tree/master/1672-richest-customer-wealth) |
