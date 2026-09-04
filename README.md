@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/2004subrata/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
@@ -51,6 +52,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2004subrata/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
