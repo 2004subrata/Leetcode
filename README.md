@@ -50,6 +50,7 @@
 | [0036-valid-sudoku](https://github.com/2004subrata/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/2004subrata/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/2004subrata/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/2004subrata/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/2004subrata/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/2004subrata/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
