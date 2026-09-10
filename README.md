@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2004subrata/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@
 | [0066-plus-one](https://github.com/2004subrata/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004subrata/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2004subrata/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/2004subrata/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2004subrata/Leetcode/tree/master/0283-move-zeroes) |
@@ -120,4 +122,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2004subrata/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
