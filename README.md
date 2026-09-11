@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2004subrata/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1854-maximum-population-year](https://github.com/2004subrata/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/2004subrata/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2004subrata/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2004subrata/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2004subrata/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/2004subrata/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2004subrata/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2004subrata/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/2004subrata/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
