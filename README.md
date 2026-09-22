@@ -15,6 +15,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/2004subrata/Leetcode/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -24,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/2004subrata/Leetcode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/2004subrata/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/2004subrata/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/2004subrata/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2004subrata/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -76,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/2004subrata/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/2004subrata/Leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/2004subrata/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2004subrata/Leetcode/tree/master/1929-concatenation-of-array) |
