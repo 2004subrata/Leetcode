@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/2004subrata/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/2004subrata/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/2004subrata/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/2004subrata/Leetcode/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -111,6 +112,7 @@
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2004subrata/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/2004subrata/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/2004subrata/Leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2004subrata/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2004subrata/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2004subrata/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/2004subrata/Leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/2004subrata/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/2004subrata/Leetcode/tree/master/1854-maximum-population-year) |
 ## Bit Manipulation
