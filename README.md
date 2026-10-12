@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/2004subrata/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2004subrata/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004subrata/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2004subrata/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/2004subrata/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004subrata/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/2004subrata/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/2004subrata/Leetcode/tree/master/0048-rotate-image) |
@@ -148,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/2004subrata/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/2004subrata/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/2004subrata/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2004subrata/Leetcode/tree/master/0242-valid-anagram) |
